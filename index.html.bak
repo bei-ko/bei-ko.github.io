@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
 	<title>bei_koの小站</title>
-	<link rel="icon" href="https://cdn.jsdelivr.net/gh/bei-ko/bei-ko.github.io/img/1.jpg" />
+	<link rel="icon" href="./img/1.jpg" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
 	<link rel="stylesheet" href="./webs/all.css">

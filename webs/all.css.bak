@@ -1,6 +1,6 @@
 
 body {
-    background-image: url('https://cdn.jsdelivr.net/gh/bei-ko/bei-ko.github.io/webs/12.jpg');
+    background-image: url('./12.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;

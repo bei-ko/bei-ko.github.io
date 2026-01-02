@@ -4,6 +4,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    background-position: center;
     user-scalable: no; 
   }
   .scrollable-container {
@@ -35,3 +36,32 @@ body {
       top: 0;
       left: 0;
   }
+  
+/* Container*/
+
+.container {
+  background-color: #0fffff55;
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+  border-radius: 2em;
+  padding: 2em;
+  margin-bottom: 1em;
+  backdrop-filter: contrast(200%);
+}
+
+a {
+  color: #00cdcd;
+}
+
+@media all and (orientation: landscape){
+  .flex {
+    display: flex;
+  }
+  .container {
+    vertical-align: top;
+  }
+  .body {
+    float: right;
+    width: 77%;
+  }
+}

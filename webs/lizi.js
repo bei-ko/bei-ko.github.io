@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
     canvas.height = window.innerHeight;
 
     const particles = [];
-    const particleCount = 30;
+    const particleCount = 10;
     const particleRadius = 3;
 
     function Particle(x, y) {
